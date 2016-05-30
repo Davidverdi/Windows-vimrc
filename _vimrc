@@ -3,7 +3,7 @@
 " Created on 5/29/2016
 " Updated on 5/29/2016
 
-"File goes here: C:\Program Files (x86)\Vim\_vimrc
+" File goes here: C:\Program Files (x86)\Vim\_vimrc
 
 """"""""""""""""
 " Default Windows Vim Settings
